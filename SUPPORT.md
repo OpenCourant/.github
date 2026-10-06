@@ -14,7 +14,7 @@ from being searchable later.
 For quick back-and-forth, join
 [`#opencourant`](https://chat.rockylinux.org/rocky-linux/channels/opencourant)
 on the Rocky Linux Mattermost. Chat is useful, but it is not archived in a way
-people can find later — if the answer is worth keeping, put it on the forum.
+people can find later. If the answer is worth keeping, put it on the forum.
 
 ## Bugs and tracked work
 
