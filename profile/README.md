@@ -70,8 +70,9 @@ source, start with
 - **The open reader.** The AGPL-licensed input reader already in the repository
   is a handful of functions short of replacing the proprietary one on every
   platform, ARM included. It is the durable fix for an entire class of problem.
-- **An MPI Engine for Windows.** The Windows package is SMP only; wiring up
-  Intel MPI needs someone with the toolchain and the interest.
+- **Testing on real models.** The regression suite gates every release, but it
+  cannot cover the range of decks people actually run. Try your own models and
+  tell us what breaks.
 - **Former OpenRadioss maintainers and community leaders**, please get in
   touch. We want this project's technical direction and governance to be set by
   the people who built it.
